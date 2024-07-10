@@ -48,16 +48,8 @@
 
 ---
 
-### GitHub Stats
-
-![Profile Views](https://komarev.com/ghpvc/?username=pran786166)
-
-![GitHub Profile Stats](https://github-readme-stats.vercel.app/api?username=pran786166&show_icons=true&theme=radical)
-
 ### Top Skills
 
 ![Top Languages] Financial Accounting • Financial Modeling and Valuation • Microsoft Power BI • Strategic Planning • Tableau
 
-### GitHub Streak Stats
 
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=pran786166&theme=radical)
