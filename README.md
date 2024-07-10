@@ -1,8 +1,7 @@
 # Hi 👋, I'm Praneet
 
 ## Aspiring Financial Analyst and Investment Banker 🎓 
-### Pursuing MBA in Finance and Business Analytics with academic support from IBM 
----
+### Currently,pursuing MBA in Finance and Business Analytics with academic support from IBM 
 
 ### Top Skills
 
@@ -18,13 +17,6 @@
 -  **Leadership** | **Teamwork** | **Time Management** | **Presentation Skills** | **Communication**
 
 ---
-
-### 🔭 Current Work
-- Currently pursuing an MBA in Finance and Business Analytics with academic support from IBM.
-
-### 💬 Ask me about
-- Financial Planning
-- Strategic Planning
 
 ### 📫 How to reach me
 - praneetkumarkarn786@gmail.com
