@@ -10,8 +10,7 @@
 
 ### 💼 Professional Skills:
 - **Financial Accounting** | **Advanced Excel** | **MS Office** | **Basic R Programming** | **PowerBI** | **Tableau** | **R Programming** | **Tally ERP 9** | **Financial Modeling and Valuation** | **DCF Valuation** | **IBM Cognos Analytics**
-- 
-- **Leadership** | **Teamwork** | **Time Management** | **Presentation Skills** | **Communication**
+-  **Leadership** | **Teamwork** | **Time Management** | **Presentation Skills** | **Communication**
 
 ---
 
