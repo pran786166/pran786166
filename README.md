@@ -1,8 +1,8 @@
 # Hi 👋, I'm Praneet
 #Aspiring Financial Analyst and Investment Banker🎓
-#Currently , pursuing MBA in Finance and Business Analytics with academic support from IBM 
----
+##Currently , pursuing MBA in Finance and Business Analytics with academic support from IBM 
 
+---
 ### 💼 Professional Skills:
 - **Financial Accounting** | **Advanced Excel** | **MS Office** | **Basic R Programming** | **PowerBI** | **Tableau** | **R Programming** | **Tally ERP 9** | **Financial Modeling and Valuation** | **DCF Valuation** | **IBM Cognos Analytics**
 -  **Leadership** | **Teamwork** | **Time Management** | **Presentation Skills** | **Communication**
