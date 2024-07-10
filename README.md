@@ -1,5 +1,6 @@
 # Hi 👋, I'm Praneet
-#Aspiring Financial Analyst and Investment Banker🎓 
+#Aspiring Financial Analyst and Investment Banker🎓
+
 ##Currently , pursuing MBA in Finance and Business Analytics with academic support from IBM 
 ---
 
