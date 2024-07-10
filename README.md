@@ -3,7 +3,7 @@
 ## Aspiring Financial Analyst and Investment Banker 🎓 
 ### Currently , pursuing MBA in Finance and Business Analytics with academic support from IBM 
 
-<img align="right" alt="coding" width="400" src="![95043-business-deal-success](https://github.com/pran786166/pran786166/assets/123820058/380c893e-b989-421b-8b93-aa3a6a4025f4)">
+<img align="right" alt="Business Man" width="400" src="![95043-business-deal-success](https://github.com/pran786166/pran786166/assets/123820058/380c893e-b989-421b-8b93-aa3a6a4025f4)">
 
 ---
 
