@@ -8,7 +8,7 @@
 
 ---
 
-### 💼 Professional Skills:
+### 💼 Professional Skills:                                                
 - **Financial Accounting**
 - **Advanced Excel**
 - **MS Office**
@@ -56,7 +56,7 @@
 
 ### Top Skills
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pran786166&layout=compact&theme=radical)
+![Top Languages] Financial Accounting • Financial Modeling and Valuation • Microsoft Power BI • Strategic Planning • Tableau
 
 ### GitHub Streak Stats
 
