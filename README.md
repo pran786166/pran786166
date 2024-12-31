@@ -10,7 +10,7 @@ Currently , pursuing MBA in Finance and Business Analytics with academic support
 ---
 
 ### 📫 How to reach me
-- praneetkumarkarn786@gmail.com    [LinkedIn]-(https://www.linkedin.com/in/praneet-/)
+- praneetkumarkarn786@gmail.com    - [LinkedIn](https://www.linkedin.com/in/praneet-/)
 
 ### 👨‍💻 All of my projects are available at
 - [GitHub Projects](https://github.com/pran786166)
